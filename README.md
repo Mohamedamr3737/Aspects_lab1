@@ -13,7 +13,7 @@ This is a **Spring Boot REST API** for managing orders. It provides CRUD operati
 1. Clone the repository:
    ```sh
    git clone https://github.com/Mohamedamr3737/Aspects_lab1
-   cd order-management-api
+   cd Aspects_lab1
    ```
 2. Build the project:
    ```sh
